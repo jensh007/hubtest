@@ -1,0 +1,11 @@
+*.*~
+telepresence.log
+.idea/
+.DS_Store
+.vscode*
+env
+/wss-unified-agent-*.jar
+/whitesource/
+dev.yaml
+.project
+.ci/__pycache__/

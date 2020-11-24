@@ -1,0 +1,21 @@
+.RepoSelector {
+    margin-left: 1.25em;
+    width: 250px;
+    margin-top: -25px;
+}
+
+.RepoSelector label {
+    position: relative;
+    top: 3px;
+}
+
+.RepoSelector .Select-input input {
+    height: 17px;
+}
+.RepoSelector .Select-input input:focus {
+    box-shadow: none;
+    border-color: none;
+}
+.RepoSelector .Select-clear {
+    line-height: inherit;
+}
